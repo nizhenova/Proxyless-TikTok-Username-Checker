@@ -9,4 +9,4 @@ for i in range(amount):
     print(generated)
     with open(output_file, "a") as f:
         f.write(generated + "\n")
-input()
+input(4)
